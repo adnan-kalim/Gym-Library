@@ -1,5 +1,8 @@
 # A comprehensive gym guide created usig React.js, MaterialUI and RapidAPI.
 
+
+![Screenshot 2023-07-18 121439](https://github.com/adnan-kalim/gym-app/assets/98105051/d5f6e636-c821-4418-bc1c-d89d8534048c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
